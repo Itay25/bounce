@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c67fb09cd160b444aa8264e2bb2d1b38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bounceSound: {fileID: 8300000, guid: df8e08054a13c3d44b36ab2ba5356c30, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
